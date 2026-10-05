@@ -1,0 +1,14 @@
+{
+  "name": "class-management-app",
+  "version": "1.0.0",
+  "description": "Elementary 4th Grade Classroom Economy and Gamification Web App",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^5.4.0"
+  }
+}
